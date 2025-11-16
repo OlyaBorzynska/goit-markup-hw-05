@@ -715,7 +715,7 @@ img {
   margin-bottom: 16px;
 }
 
-.modal-input-coment {
+.modal-input-comment {
   width: 100%;
   height: 120px;
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -732,11 +732,11 @@ img {
   color: rgba(46, 47, 66, 0.4);
 }
 
-.modal-input-coment:focus {
+.modal-input-comment:focus {
   border-color: #4d5ae5;
 }
 
-.modal-input-coment::placeholder {
+.modal-input-comment::placeholder {
   font-weight: 400;
   font-size: 12px;
   line-height: 1.17;
@@ -765,9 +765,6 @@ img {
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   background-color: transparent;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 16px;
   height: 16px;
   margin-right: 8px;
